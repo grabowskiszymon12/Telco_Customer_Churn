@@ -26,7 +26,7 @@ Power BI dashboard analysing customer churn in a telecommunications company.
 
 ## Files
 
-- `Telco_Churn_Dashboard.pbix` – interactive Power BI report
+- `TelcoChurn.pbix` – interactive Power BI report
 - `telcoNotebook.ipynb` – data analysis and machine-learning notebook
 - `data/telco_powerbi_clean.csv` – cleaned dataset used in Power BI
 
